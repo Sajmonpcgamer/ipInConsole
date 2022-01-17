@@ -1,0 +1,6 @@
+name: ipInConsole
+author: Sajmonpcgamer
+description: Gives you ip in console, has eula
+api-version: 1.18
+main: me.sajmonpcgamer.java.getip.plugin.Main
+version: 1.1
